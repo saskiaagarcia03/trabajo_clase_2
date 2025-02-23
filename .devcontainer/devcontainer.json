@@ -1,0 +1,17 @@
+{
+	"name": "Python 3 & PostgreSQL",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "app",
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"dbcode.dbcode"
+			]
+		}
+	},
+	"postCreateCommand": "pip install pandas requests psycopg2-binary jupyter"
+}
+

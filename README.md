@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Mi proyecto
 1) Qué es, que aplicaciones tiene y como implemento en postgres Bases de Datos Vectoriales?
@@ -31,3 +32,5 @@ En nuestro deber un datalake podría almacenar no solo los datos procesados de C
 2. Big Data: Combinar los CVEs con otros datos (ej. logs de servidores, reportes de incidentes) para correlacionar eventos de seguridad.
 3. Machine Learning: Usar los datos crudos del datalake para entrenar modelos que predigan severidad o clasifiquen vulnerabilidades.
 4. Almacenamiento histórico: Mantener un archivo de todos los CVEs obtenidos sin preocuparte por estructurarlos inmediatamente, permitiendo consultas futuras.
+=======
+>>>>>>> a82d52aa65179551355c2077a1061c766de2987b
