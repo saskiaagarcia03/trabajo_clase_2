@@ -25,7 +25,7 @@ Paso 5: Correr el script de Python para cargar los datos a PostgreSQL.
    
 Una base de datos vectorial es un sistema diseñado para almacenar, gestionar y consultar datos representados como vectores numéricos (arrays de números) en un espacio multidimensional. Estos vectores suelen ser embeddings generados por modelos de machine learning, que codifican información compleja (como texto, imágenes o datos estructurados) en una forma numérica que captura similitudes semánticas o relaciones.
 
-¿Que aplicaciones tiene las Bases de Datos Vectoriales?
+2) ¿Que aplicaciones tiene las Bases de Datos Vectoriales?
 
 1. Búsqueda semántica: En nuestro caso, se podría buscar CVEs con descripciones similares a una consulta (ej. "buffer overflow") sin depender de coincidencias exactas de palabras, sino de significado.
 
