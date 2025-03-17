@@ -1,5 +1,25 @@
 <<<<<<< HEAD
 
+# 1. Introducción
+Para este proyecto se tomó el API de CVEs de NIST.
+# 2. Requisitos Previos
+## Software necesario:
+Docker y Devcontainer en VSCode.
+PostgreSQL instalado o configurado en Docker.
+Dependencias de Python (Entorno)
+# 3. Estructura del Repositorio
+un_structured_data.py -> Archivo un_structured_data.py para extraer y procesar datos.
+devcontainer.json → Configuración del Devcontainer.
+clase_2.ipynb -> Jupyter Notebook con el análisis y tratamiento de datos.
+
+# 4. Instrucciones de Uso
+Paso 1: Clonar el repositorio y abrir en VSCode con Devcontainer.
+Paso 2: Instalar dependencias y elegir entorno.
+Paso 3: Ejecutar el Jupyter Notebook .
+Paso 4: Validar en la base de datos que los datos fueron cargados.
+Paso 5: Correr el script de Python para cargar los datos a PostgreSQL.
+
+
 # Mi proyecto
 1) Qué es, que aplicaciones tiene y como implemento en postgres Bases de Datos Vectoriales?
    
